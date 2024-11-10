@@ -1,0 +1,37 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/button.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/gowin_mult_1/gowin_mult_1.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/gowin_pll/gowin_pll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/sd_select.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

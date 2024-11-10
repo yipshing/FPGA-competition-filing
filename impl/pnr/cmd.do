@@ -1,0 +1,16 @@
+-d C:\Users\15489\Desktop\work\Gowin_project\copy\FPGA_match\impl\gwsynthesis\FPGA_match.vg
+-p GW5A-25A-UBGA324-2
+-pn GW5A-LV25UG324C2/I1
+-cst C:\Users\15489\Desktop\work\Gowin_project\copy\FPGA_match\src\FPGA_match.cst
+-cfg C:\Users\15489\Desktop\work\Gowin_project\copy\FPGA_match\impl\pnr\device.cfg
+-sdc C:\Users\15489\Desktop\work\Gowin_project\copy\FPGA_match\src\FPGA_match.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
+-enable_dsrm 0

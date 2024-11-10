@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="14" Lut="25" T_Register="1170(14)" T_Alu="138(0)" T_Lut="783(25)" T_MULTALU27X18="7(0)" T_Bsram="3(0)">
+ <SubModule name="pll_102M4"/>
+ <SubModule name="key_1_de" Register="25" Lut="46" T_Register="25(25)" T_Lut="46(46)"/>
+ <SubModule name="dds_25K" Register="372" Alu="46" Lut="227" MULTALU27X18="2" Bsram="1" T_Register="372(372)" T_Alu="46(46)" T_Lut="227(227)" T_MULTALU27X18="2(2)" T_Bsram="1(1)"/>
+ <SubModule name="dds_12M5" Register="371" Alu="46" Lut="227" MULTALU27X18="2" Bsram="1" T_Register="371(371)" T_Alu="46(46)" T_Lut="227(227)" T_MULTALU27X18="2(2)" T_Bsram="1(1)"/>
+ <SubModule name="mult_AM" MULTALU27X18="1" T_MULTALU27X18="1(1)"/>
+ <SubModule name="dds_fre_mod" Register="372" Alu="46" Lut="227" MULTALU27X18="2" Bsram="1" T_Register="372(372)" T_Alu="46(46)" T_Lut="227(227)" T_MULTALU27X18="2(2)" T_Bsram="1(1)"/>
+ <SubModule name="select" Register="16" Lut="31" T_Register="16(16)" T_Lut="31(31)"/>
+</Module>

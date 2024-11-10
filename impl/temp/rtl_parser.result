@@ -1,0 +1,98 @@
+[
+ {
+  "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+    "InstLine" : 10,
+    "InstName" : "pll_102M4",
+    "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/gowin_pll/gowin_pll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_PLL"
+   },
+   {
+    "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+    "InstLine" : 16,
+    "InstName" : "key_1_de",
+    "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/button.v",
+    "ModuleLine" : 21,
+    "ModuleName" : "button"
+   },
+   {
+    "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+    "InstLine" : 27,
+    "InstName" : "dds_25K",
+    "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+    "ModuleLine" : 2302,
+    "ModuleName" : "DDS_II_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+      "InstLine" : 2319,
+      "InstName" : "u_dds_compiler_core",
+      "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~dds_ii_core.DDS_II_Top"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+    "InstLine" : 37,
+    "InstName" : "dds_12M5",
+    "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+    "ModuleLine" : 2302,
+    "ModuleName" : "DDS_II_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+      "InstLine" : 2319,
+      "InstName" : "u_dds_compiler_core",
+      "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~dds_ii_core.DDS_II_Top"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+    "InstLine" : 51,
+    "InstName" : "mult_AM",
+    "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/gowin_mult_1/gowin_mult_1.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_MULT_1"
+   },
+   {
+    "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+    "InstLine" : 74,
+    "InstName" : "dds_fre_mod",
+    "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+    "ModuleLine" : 2302,
+    "ModuleName" : "DDS_II_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+      "InstLine" : 2319,
+      "InstName" : "u_dds_compiler_core",
+      "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/dds_ii/dds_ii.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~dds_ii_core.DDS_II_Top"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/top.v",
+    "InstLine" : 84,
+    "InstName" : "select",
+    "ModuleFile" : "C:/Users/15489/Desktop/work/Gowin_project/copy/FPGA_match/src/sd_select.v",
+    "ModuleLine" : 21,
+    "ModuleName" : "sd_select"
+   }
+  ]
+ }
+]
